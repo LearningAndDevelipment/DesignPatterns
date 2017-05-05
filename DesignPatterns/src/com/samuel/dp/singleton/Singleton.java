@@ -15,7 +15,7 @@ public class Singleton {
 	    
 	    public String myMethod(String name){
 
-
+// test conflict
 	    	return "Hello Mr. "+name;
 
 
