@@ -9,6 +9,7 @@ public class LazyInitializedSingleton {
     public static LazyInitializedSingleton getInstance(){
         if(instance == null){
             instance = new LazyInitializedSingleton();
+			//fdh
         }
         return instance;
     }
