@@ -14,7 +14,10 @@ public class Singleton {
 	    }
 	    
 	    public String myMethod(String name){
-	    	return "Hello     "+name;
+
+	    	return "Hello Mr"+name;
+
+
 	    }
 	
 
